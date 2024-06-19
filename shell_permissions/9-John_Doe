@@ -1,2 +1,2 @@
 #!/bin/bash
-file 9-John_Doe
+chmod +x set_permissions.sh
